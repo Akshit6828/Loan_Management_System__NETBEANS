@@ -15,3 +15,12 @@ Technology Used: Java
 A standalone loan management application which lets you to track the loan of users for a every registered user. 
 It is useful to maintain track of loans taken by user.
 
+--------------------------------------------------
+
+### How to run the Project:
+
+* Open the terminal and run the command ` git clone `
+* Navigate to folder Main.Java
+* It will successfully start the project.
+
+
