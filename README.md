@@ -19,7 +19,7 @@ It is useful to maintain track of loans taken by user.
 
 ### How to run the Project:
 
-* Open the terminal and run the command ` git clone `
+* Open the terminal and run the command: ` git clone https://github.com/Akshit6828/Loan_Management_System__NETBEANS.git`
 * Navigate to folder Main.Java
 * It will successfully start the project.
 
