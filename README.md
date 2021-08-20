@@ -30,4 +30,7 @@ Project Features:
 This project includes the following features:
 
 - [x] Create a Database for an orginization for saving its employee data.
-
+- [x] Add new users in database who seeking loan.
+- [x] Update the exisiting Users in Database.
+- [x] Read users history of records.
+- [x] Delete a users data when the loan in completed.  
