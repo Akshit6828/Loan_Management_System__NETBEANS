@@ -12,8 +12,8 @@ Technology Used: _Java_
 
 ### About the Project:
 
-A standalone loan management application which lets you to track the loan of users for a every registered user. 
-It is useful to maintain track of loans taken by user.
+A standalone loan management application that lets you track the loan of users for every registered user. 
+It is useful to maintain track of loans taken by users.
 
 --------------------------------------------------
 
