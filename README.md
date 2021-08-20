@@ -2,11 +2,11 @@
 
 ------------------------------------------------
 
-Author: Akshit Mangotra
+Author: _Akshit Mangotra_
 
-IDE Used: Apache NETBEANS
+IDE Used: _Apache NETBEANS_
 
-Technology Used: Java
+Technology Used: _Java_
 
 -------------------------------------------------
 
@@ -24,4 +24,10 @@ It is useful to maintain track of loans taken by user.
 * Run the project by running following command: `java Home`
 * It will successfully start the project. 😄
 
+---------------------------------------------------
+
+Project Features:
+This project includes the following features:
+
+- [x] Create a Database for an orginization for saving its employee data.
 
