@@ -20,7 +20,7 @@ It is useful to maintain track of loans taken by users.
 ### How to run the Project:
 
 * Open the terminal and run the command: ` git clone https://github.com/Akshit6828/Loan_Management_System__NETBEANS.git`
-* Navigate to folder and run following command: `javac Home.java`
+* Navigate to folder `src\login\activity` and run following command: `javac Home.java`
 * Run the project by running following command: `java Home`
 * It will successfully start the project. 😄
 
