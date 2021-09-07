@@ -12,11 +12,9 @@
 A standalone loan management application that lets you track the loan of users for every registered user. 
 It is useful to maintain track of loans taken by users.
 
-Author: _Akshit Mangotra_
-
-IDE Used: _Apache NETBEANS_
-
-Technology Used: _Java_
+* **Author**: _Akshit Mangotra_
+* **IDE Used**: _Apache NETBEANS_
+* **Technology Used**: _Java_
 
 --------------------------------------------------
 
