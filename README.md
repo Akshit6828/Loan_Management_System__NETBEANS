@@ -1,19 +1,22 @@
 <h2 align="center"> Loan Management System </h2>
 
+### Table of Contents:
+* [About the project](#about-the-project)
+* [How to run the Project](#how-to-run-the-project)
+* [Project Features](#project-features)
+
 ------------------------------------------------
+
+### About the Project:
+
+A standalone loan management application that lets you track the loan of users for every registered user. 
+It is useful to maintain track of loans taken by users.
 
 Author: _Akshit Mangotra_
 
 IDE Used: _Apache NETBEANS_
 
 Technology Used: _Java_
-
--------------------------------------------------
-
-### About the Project:
-
-A standalone loan management application that lets you track the loan of users for every registered user. 
-It is useful to maintain track of loans taken by users.
 
 --------------------------------------------------
 
@@ -26,7 +29,8 @@ It is useful to maintain track of loans taken by users.
 
 ---------------------------------------------------
 
-Project Features:
+### Project Features:
+
 This project includes the following features:
 
 - [x] Create a Database for an orginization for saving its employee data.
